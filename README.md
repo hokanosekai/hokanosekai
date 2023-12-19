@@ -5,7 +5,7 @@
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Hokanosekai</h1>
 
-## PronoBot
+## PronoBot (Not Maintained)
 
 A Discord Bot that's allow you to make custom bets with custom odds and let your Discord community bet on it.
 The V2 is currently in development, she will be available in few months.
@@ -20,17 +20,11 @@ The V2 is currently in development, she will be available in few months.
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Pillar](https://github.com/hokanosekai/pillar)**
+- 🔭 I’m currently working on **[Rust Navigator](https://github.com/hokanosekai/rust-navigator)**
 
-- 🌱 I’m currently learning **Typescript**
-
-- 👯 I’m looking to collaborate on **Projects**
+- 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at **[My GITHUB](https://github.com/Hokanosekai)**
-
-- 📫 How to reach me **xxxxxxxx@gmail.com**
-
-- ⚡ Fun fact **Im Technology Student**
 
 ## 🚀 Languages and Tools:
 
