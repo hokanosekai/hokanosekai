@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on **[LibMMU](https://github.com/Memoscopy/libMMU)**<br>- 📚 I'm currently learning **Rust** and **Memory**<br>- ⚡ In my free time I **Develop my OS**</p>
+<p align="left">- 🔭 I’m working on <b><a href="https://github.com/Memoscopy/libMMU">LibMMU</a></b><br>- 📚 I'm currently learning <b>Rust</b> and <b>Memory</b><br>- ⚡ In my free time I <b>Develop my OS</b></p>
 
 ###
 
@@ -27,7 +27,9 @@
 ###
 
 <div align="left">
-    [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,c,rust,python,bash,deno,docker,java,md,linux,php,supabase,vscode&perline=8)](https://skillicons.dev)
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,c,rust,python,bash,deno,docker,java,md,linux,php,supabase,vscode&perline=8" />
+    </a>
 </div>
 
 ###
