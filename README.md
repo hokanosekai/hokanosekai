@@ -1,6 +1,6 @@
 <div align="center", style="{
   border-radius: 5px;
-}>
+}">
   <img height="400" width="1200" src="https://images.pexels.com/photos/2693200/pexels-photo-2693200.jpeg?auto=compress&cs=tinysrgb&w=1200"  />
 </div>
 
