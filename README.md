@@ -1,11 +1,11 @@
 <style>
-header {
-  border-radius: 5px;
-} 
+header 
 </style>
 
 <div align="center">
-  <img class="header" height="400" width="1200" src="https://images.pexels.com/photos/2693200/pexels-photo-2693200.jpeg?auto=compress&cs=tinysrgb&w=1200"  />
+  <img style="{
+  border-radius: 5px;
+} " height="400" width="1200" src="https://images.pexels.com/photos/2693200/pexels-photo-2693200.jpeg?auto=compress&cs=tinysrgb&w=1200"  />
 </div>
 
 ###
