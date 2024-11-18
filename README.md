@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on <b><a href="https://github.com/Memoscopy/libMMU">LibMMU</a></b><br>- 📚 I'm currently learning <b>Rust</b> and <b>Memory</b><br>- ⚡ In my free time I <b>Develop my OS</b></p>
+<p align="left">- 🔭 I’m working on <b><a href="https://github.com/Frontdown24">FrontDown</a></b><br>- 📚 I'm currently learning <b>OS Dev</b><br>- ⚡ In my free time I <b>Develop my OS</b></p>
 
 ###
 
