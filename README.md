@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on <b><a href="https://github.com/Frontdown24">FrontDown</a></b><br>- 📚 I'm currently learning <b>OS Dev</b><br>- ⚡ In my free time I <b>Develop my OS</b></p>
+<p align="left">- 🔭 I’m working on <b><a href="https://frontdown.me">FrontDown</a></b><br>- 📚 I'm currently learning <b>OS Dev</b><br>- ⚡ In my free time I <b>Develop my OS</b></p>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <div align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,react,tailwind,c,rust,python,bash,deno,docker,java,md,linux,php,supabase,vscode&perline=8" />
+      <img src="https://skillicons.dev/icons?i=linux,arch,vscode,kubernetes,docker,ansible,terraform,supabase,postgres,c,bash,rust,python,java,md,php,ts,deno,nodejs,vue,react,tailwind&perline=8" />
     </a>
 </div>
 
@@ -39,7 +39,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hokanosekai&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hokanosekai&theme=synthwave&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 ###
